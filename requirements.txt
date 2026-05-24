@@ -1,0 +1,9 @@
+streamlit>=1.30
+numpy
+pandas
+scikit-learn
+xgboost
+plotly
+python-dotenv
+google-genai
+reportlab
